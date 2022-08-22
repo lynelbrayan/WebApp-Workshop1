@@ -49,6 +49,12 @@ One Day workshop on understanding Docker to package applications into containers
         1. Verify the image
         2. `sudo docker run --rm -ti postgres:14-alpine  psql -V`
         3. Output: **psql (PostgreSQL) 14.5**
+        
+        
+        
+        
+        
+        
 
 ## What will you learn by the end of this workshop?
 - By the end of this workshop you will understand what Docker and how it is containerized for the applications
